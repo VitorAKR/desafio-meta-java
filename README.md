@@ -1,4 +1,4 @@
-# desafio-meta-java
+# consumir API de indicadores da World Bank (JAVA)
 
 ### Recursos Usados
 Lista de recursos usados no desafio
